@@ -13,3 +13,5 @@
 |11|team416|王琳（组长） 张金宇、刘亚琳、曹静、姜豪、何一豪|https://github.com/wanglin111/team416|待定|
 |12|重案六组|帅绍康（组长） 彭焕志，张硕，王颢森，焦嘉琦，王轩宇，张杰|https://github.com/SSKcps/project-design-by-319|待定|
 |13|老痛苦了Agony|张子恒（组长） 于霄臻 龙瑞 纪梓暄 高焕|https://github.com/zzhjs/Software-Engineering|待定|
+|14|憨憨小分队|刘翠翠（组长） 周晴，苏丁怡，樊邢悦|https://github.com/Lliucuicui/software|待定|
+|15|起名什么的太难了|张树林（组长） 琚晶鑫、李硕、杜世龙|https://github.com/zhuojiuw/CocaCola|待定|
