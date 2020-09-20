@@ -16,3 +16,4 @@
 |14|憨憨小分队|刘翠翠（组长） 周晴，苏丁怡，樊邢悦|https://github.com/Lliucuicui/software|待定|
 |15|起名什么的太难了|张树林（组长） 琚晶鑫、李硕、杜世龙|https://github.com/zhuojiuw/CocaCola|待定|
 |16|删库跑路队|肖帅（组长） 刘金帅 徐畅 何帅辰 刘家辉|https://github.com/ReimuMyLove/SoftwareGroupwork|待定|
+|17|防脱发研究小组|付静怡（组长） 李雨竹 李晓涵 解宇欣 何佳 张佳欣|https://github.com/FuJingYi/software-six|待定|
