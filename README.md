@@ -14,7 +14,7 @@
 |12|重案六组|帅绍康（组长） 彭焕智，张硕，王颢森，焦嘉琦，王轩宇，张杰|https://github.com/SSKcps/project-design-by-319|待定|
 |13|老痛苦了Agony|张子恒（组长） 于霄臻 龙瑞 纪梓暄 高焕|https://github.com/zzhjs/Software-Engineering|餐饮线上排队系统|
 |14|憨憨小分队|刘翠翠（组长） 周晴，苏丁怡，樊邢悦|https://github.com/Lliucuicui/software|待定|
-|15|起名什么的太难了|张树林（组长） 琚晶鑫、李硕、杜世龙|https://github.com/zhuojiuw/CocaCola|待定|
+|15|起名什么的太难了|张树林（组长） 琚晶鑫、李硕、杜世龙|https://github.com/zhuojiuw/CocaCola|图书馆管理系统|
 |16|删库跑路队|肖帅（组长） 刘金帅 徐畅 何帅辰 刘家辉|https://github.com/ReimuMyLove/SoftwareGroupwork|校园外卖系统|
 |17|防脱发研究小组|付静怡（组长） 李雨竹 李晓涵 解宇欣 何佳 张佳欣|https://github.com/FuJingYi/software-six|待定|
 |18|五个合伙人|杜鑫宇（组长） 刘如凤、柴文欣、苏韩、李格|https://github.com/duxinyu03/Software-engineering|待定|
