@@ -18,3 +18,4 @@
 |16|删库跑路队|肖帅（组长） 刘金帅 徐畅 何帅辰 刘家辉|https://github.com/ReimuMyLove/SoftwareGroupwork|校园外卖系统|
 |17|防脱发研究小组|付静怡（组长） 李雨竹 李晓涵 解宇欣 何佳 张佳欣|https://github.com/FuJingYi/software-six|小明星图书管理系统|
 |18|五个合伙人|杜鑫宇（组长） 刘如凤、柴文欣、苏韩、李格|https://github.com/duxinyu03/Software-engineering|酒店服务管理系统|
+|19|Hand In Hand|王昊元（组长）|https://github.com/jack201806/jw-software-engineering-git|化学品管理系统|
