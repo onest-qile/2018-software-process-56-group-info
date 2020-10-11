@@ -1,7 +1,7 @@
 ﻿| 序号 | 组名 | 组员 | 仓库地址 | 项目名称 |
 |:---:|:---:|:---:|:---:|:---:|
 |1|仙女联盟|李明容（组长） 王一兰，史智凡，向亦琛，王慧，王可青，车怡兰|https://github.com/Boss-LMR/410course-software-homework|图书管理系统|
-|2|熬夜不秃头|赵嘉怡（组长） 蔡清怡、梁微、王慧雯|https://github.com/Ripenautumn/software-process-homework|青禾工作室运营系统|
+|2|熬夜不秃头|赵嘉怡（组长） 蔡清怡、梁微、王慧雯|https://github.com/Ripenautumn/software-process-homework|真好吃蛋糕店|
 |3|一个靓仔和一群靓女|邓警方（组长） 郝子宪，周思敏，李昊钰，武奇|https://github.com/dengjingfang111/software|威尔保险|
 |4|一路向上|蔡孟婷（组长） 刘淼，谢韵霏，申亚雨，李双双，曾钰，申冰洁|https://github.com/caimengting/413software-engineering|极光流量套餐办理系统|
 |5|地表最强小分队|杨泽宇（组长） 张辰敏，刘传开，李炬宇，王瑞康|https://github.com/bugkingyzy/-323-|线上教育平台|
